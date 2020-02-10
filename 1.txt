@@ -1,1 +1,8 @@
 This is file 1.
+<<<<<<< HEAD
+=======
+Hi
+Hi
+Hi
+This is the first Branh
+>>>>>>> 7dd82b4... Change to first branch
