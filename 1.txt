@@ -6,5 +6,8 @@ Hi
 Hi
 This is the first Branh
 >>>>>>> 7dd82b4... Change to first branch
+<<<<<<< HEAD
 
 This is a new Change
+=======
+>>>>>>> parent of 9996109... My Change
